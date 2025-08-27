@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 import { Button } from './ui/button';
 import { Separator } from './ui/separator';
 import { ArrowUp, Mail, Phone, MessageCircle, ExternalLink } from 'lucide-react';
-import webAlchemyLogo from '../../assets/8cadedf8e5c9001b503dd30f0f1d0d9515c2b669.png';
+import webAlchemyLogo from '../assets/8cadedf8e5c9001b503dd30f0f1d0d9515c2b669.png';
 
 export function Footer() {
   const scrollToTop = () => {
