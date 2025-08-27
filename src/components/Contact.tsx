@@ -8,7 +8,7 @@ import { Input } from './ui/input';
 import { Label } from './ui/label';
 import { Textarea } from './ui/textarea';
 import { Mail, Phone, MessageCircle, Clock, MapPin, Send } from 'lucide-react';
-import webAlchemyLogo from './../../assets/8cadedf8e5c9001b503dd30f0f1d0d9515c2b669.png';
+import webAlchemyLogo from '../../assets/8cadedf8e5c9001b503dd30f0f1d0d9515c2b669.png';
 
 export function Contact() {
   const [formData, setFormData] = useState({
