@@ -89,7 +89,7 @@ export function Portfolio() {
             Our Portfolio
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto mb-8">
-            Explore our recent projects and see how we've helped businesses transform 
+            Explore our potential projects and see how we can help businesses transform 
             their digital presence with cutting-edge web solutions.
           </p>
 
